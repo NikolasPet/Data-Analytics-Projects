@@ -1,4 +1,4 @@
-Project Description: Exploratory Visual Analysis of Airbnb Listings in Athens, Greece
+Exploratory Visual Analysis of Airbnb Listings in Athens, Greece
 
 In this data analytics project, I am performing an exploratory visual analysis of Airbnb listings data for the city of Athens, Greece. The primary goal is to gain insights into various aspects of the listings, such as their prices, ratings, and geographical distribution.
 
