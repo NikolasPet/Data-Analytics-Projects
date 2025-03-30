@@ -26,7 +26,7 @@ actionable recommendations.
 
 ### 2. Customer Segmentation
 - Clustering using K-Means based on Recency, Frequency, and Monetary (RFM) variables.
-- Elbow Method and Silhouette Score used to determine optimal clusters.
+- Elbow Method, Silhouette Score, and ABC Criterion used to determine optimal clusters.
 - Final segments:
   - **Loyalists**
   - **Potential Loyalists**
